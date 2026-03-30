@@ -7,7 +7,7 @@ const Header = () => {
         TodoX
       </h1>
       <p className="text-muted-foreground">
-        Không có việc gì khó chi sợ mình ko làm
+        Không có việc gì khó chỉ sợ mình không làm
       </p>
     </div>
   );
